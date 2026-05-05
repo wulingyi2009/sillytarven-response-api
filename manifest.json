@@ -1,0 +1,14 @@
+{
+  "display_name": "Responses Bridge",
+  "loading_order": 999,
+  "js": "index.js",
+  "author": "AI patch",
+  "version": "0.2.0",
+  "homePage": "https://github.com/wulingyi2009/sillytarven-response-api",
+  "auto_update": false,
+  "minimum_client_version": "1.0.0",
+  "generate_interceptor": "responsesBridgeGenerateInterceptor",
+  "hooks": {
+    "activate": "onActivate"
+  }
+}
