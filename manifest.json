@@ -1,0 +1,15 @@
+{
+  "display_name": "RikkaHub Responses Bridge",
+  "loading_order": 999,
+  "js": "index.js",
+  "css": "style.css",
+  "author": "AI patch",
+  "version": "0.1.0",
+  "homePage": "https://github.com/yourname/st-extension-rikkahub-responses",
+  "auto_update": false,
+  "minimum_client_version": "1.0.0",
+  "generate_interceptor": "rhrspGenerateInterceptor",
+  "hooks": {
+    "activate": "onActivate"
+  }
+}
